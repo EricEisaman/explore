@@ -19,6 +19,7 @@ items:
  - Irrelon/ige
  - 4ian/GDevelop
  - mrdoob/three.js
+ - EricEisaman/cs1
 display_name: JavaScript Game Engines
 created_by: leereilly
 ---
